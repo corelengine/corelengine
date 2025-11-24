@@ -1,6 +1,6 @@
 Hi there 👋
 🧑💻 About Me
-A senior tech professional with 10+ years of experience 10 specializing in scalable App, Web, and Platform architecture design. Proficient in Java, Python, and multiple programming languages, I excel at translating business needs into robust, high-performance technical solutions.
+A senior tech professional with 10+ years of experience specializing in scalable App, Web, and Platform architecture design. Proficient in Java, Python, and multiple programming languages, I excel at translating business needs into robust, high-performance technical solutions.
 🚀 Core Expertise
 Architecture Design: Microservices, Distributed Systems, Cloud-Native Architecture (AWS/Azure/GCP)
 Full-Stack Development: Java (Spring Boot), Python (Django/Flask), Frontend (React/Vue)
@@ -15,6 +15,5 @@ Exploring cutting-edge tools to enhance architecture scalability and development
 📫 Get In Touch
 Email: corelengine@gmail.com
 LinkedIn: https://www.linkedin.com/in/zhili-zhang-1262ab52/
-
 ⚡ Fun Fact
 I’ve led 50+ enterprise-level projects across fintech and e-commerce, and thrive in remote teams—nothing beats turning complex technical challenges into seamless user experiences!
