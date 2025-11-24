@@ -1,6 +1,6 @@
 Hi there 👋
 🧑💻 About Me
-A senior tech professional with 10+ years of experience (可替换为你的实际年限) specializing in scalable App, Web, and Platform architecture design. Proficient in Java, Python, and multiple programming languages, I excel at translating business needs into robust, high-performance technical solutions.
+A senior tech professional with 10+ years of experience 10 specializing in scalable App, Web, and Platform architecture design. Proficient in Java, Python, and multiple programming languages, I excel at translating business needs into robust, high-performance technical solutions.
 🚀 Core Expertise
 Architecture Design: Microservices, Distributed Systems, Cloud-Native Architecture (AWS/Azure/GCP)
 Full-Stack Development: Java (Spring Boot), Python (Django/Flask), Frontend (React/Vue)
